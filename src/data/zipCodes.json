@@ -1,0 +1,54 @@
+[
+    { "areas": "請選擇國家",
+      "country":[
+          { "name": "請選擇城市"}
+      ]
+    },
+      { "areas": "日本",
+        "country":[
+            { "name": "東京"},
+            { "name": "大阪"},
+            { "name": "京都"}
+        ]
+      },
+      { "areas": "印尼",
+         "country":[
+            { "name": "峇厘島"}
+         ]
+      },
+      { "areas": "香港",
+        "country":[
+
+            { "name": "香港"}
+        ]
+      },
+      { "areas": "俄羅斯",
+        "country":[
+            { "name": "莫斯科"},
+            { "name": "聖彼得堡"},
+            { "name": "蘇茲達里"},
+            { "name": "弗拉基米爾"}
+         ]
+      },
+      { "areas": "埃及",
+        "country":[
+            { "name": "亞歷山大"},
+            { "name": "開羅"},
+            { "name": "盧克索"},
+            { "name": "亞斯文"}
+         ]
+      },
+      {
+        "areas": "馬來西亞",
+        "country":[
+          { "name": "吉隆坡"}
+        ]
+      },
+      {
+        "areas": "韓國",
+        "country":[
+          { "name": "首爾"}
+        ]
+      }
+]
+
